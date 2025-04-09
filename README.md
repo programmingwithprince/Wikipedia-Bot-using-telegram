@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Wikipedia Telegram Bot</title>
+
 </head>
 <body style="font-family:sans-serif;line-height:1.6">
 
