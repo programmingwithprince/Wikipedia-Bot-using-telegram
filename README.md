@@ -27,7 +27,7 @@
       <code>git clone https://github.com/programmingwithprince/Wikipedia-Bot-using-telegram.git</code>
     </li>
     <li><strong>Install dependencies:</strong><br>
-      <code>pip install python-telegram-bot wikipedia</code>
+      <code>pip install telbot wikipedia</code>
     </li>
     <li><strong>Add your bot token:</strong><br>
       Replace <code>"YOUR_BOT_TOKEN"</code> in <code>bot.py</code> with your actual token from <a href="https://t.me/BotFather">@BotFather</a>
